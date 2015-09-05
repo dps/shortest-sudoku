@@ -1,4 +1,4 @@
-#C
+#Haskell
 
 The shortest Haskell solution is 244 chars.
 
