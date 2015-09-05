@@ -17,7 +17,7 @@ The program still works if `${…}for` is changed to `map{…}` , saving one byt
 
 ##Contributors
 
- * This program is a slightly modified version of another [three line Sudoku Solver](http://www.ecclestoad.co.uk/2005/06/sudoku_solver_in_three_lines_explained) (page includes a description of how it works).
+ * This program is a slightly modified version of another [three line Sudoku Solver](http://www.ecclestoad.co.uk/2005/05/obfuscation-as-a-learning-tool) (page includes a description of how it works).
  * Mark Byers reduced it to 187 bytes.
  * Gordon McCreight reduced it to 186 bytes.
  * Pablo Carbonell reduced it to 181 bytes, and provided this comment
